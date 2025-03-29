@@ -73,3 +73,7 @@ class Node {
     scale(this.x, this.y, this.z);
   }
 }
+
+function preload() {
+  print("Looks good here!");
+}
